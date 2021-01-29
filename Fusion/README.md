@@ -12,4 +12,4 @@ rc_tc_BMG_v6_tool_assy vXX.f3z = remix of all printed Juilee tool using a Bondte
 
 Note: End user can customize actual halo thickness using parameter in Fusion 360 model "55mm_rc_halo_parking_post_assy v3.f3z" under User Parameter "Halo Thickness".
 
-(Add picture here)
+![image](https://github.com/railcore/toolchanger/blob/master/Fusion/Halo%20Thickness%20Adjustment.png)
