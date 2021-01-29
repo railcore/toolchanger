@@ -1,6 +1,6 @@
 The Railcore Toolchanger uses the remote elastic lock (REL) from Jubilee.  
 
-Joshua Vasquez designed Railcore specific mounts for the Railcore.
+Joshua Vasquez designed these Railcore specific mounts for his REL design.
 
 This repository only has the Railcore specific mount for the REL.  All other part(s) are from the Jubilee project and are located [here](https://jubilee3d.com/index.php?title=3D_Printed_Parts).
 
@@ -18,7 +18,7 @@ You will need to print(1) each of the following Jubilee parts:
 * knob
 * spring_guide_anchor_block
 
-For the Stepper Online stepper you will need to print this mount base:
+For the Stepper Online stepper you will need to print this Railcore mount base:
 * lock_actuator_base_plate_rcs
 
 And this "clip" from Jubilee:
