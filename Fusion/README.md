@@ -4,7 +4,7 @@ Railcore Toolchanger Layout Alpha v29.f3z = Railcore Y Carriage assembly that in
 
 REL_RC_Mount_LDO v3.f3z = Remote Elastic Lock (REL) mount for Railcore using LDO stepper.  This Fusion 360 model is just the mount, other components for the REL can be found on the Jubilee GitHub. Remix of Jubilee REL mount, redesign by Josha Vasquez.
 
-rc_tc_BMG_v6_tool_assy vXX.f3z = remix of all printed Juilee tool using a Bondtech BMG and E3D V6.
+rc_tc_BMG_v6_tool_assy v38.f3z = remix of all printed Juilee tool using a Bondtech BMG and E3D V6.
 
 55mm_rc_parking_post_assy v24.f3z = Parking post for BMG/V6 tool. 55mm pin spacing. Remix of Jubilee design.
 
