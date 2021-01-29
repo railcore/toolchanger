@@ -2,7 +2,7 @@ The Railcore Toolchanger uses the remote elastic lock (REL) from Jubilee.
 
 Joshua Vasquez designed Railcore specific mounts for the Railcore.
 
-This repository only has the Railcore specific mount for the REL.  All other part(s) are located [here](https://jubilee3d.com/index.php?title=3D_Printed_Parts).
+This repository only has the Railcore specific mount for the REL.  All other part(s) are from the Jubilee project and are located [here](https://jubilee3d.com/index.php?title=3D_Printed_Parts).
 
 The baseline stepper motor for the REL is LDO 28STH32-0674APG14.  This is the recommended stepper motor for this build.
 
